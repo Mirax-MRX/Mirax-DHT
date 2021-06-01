@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdht.a CMakeFiles/dht.dir/dht.cpp.o CMakeFiles/dht.dir/dht-remote-node.cpp.o CMakeFiles/dht.dir/dht-bucket.cpp.o CMakeFiles/dht.dir/dht-node.cpp.o CMakeFiles/dht.dir/dht-query.cpp.o CMakeFiles/dht.dir/dht-types.cpp.o
+/usr/bin/ranlib libdht.a
